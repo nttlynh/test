@@ -1,0 +1,3 @@
+﻿tạo: khi có sẵn folder -> remote: 
+git init;
+git add remote url.git
